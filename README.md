@@ -27,11 +27,7 @@ py manage.py runserver
 Enter ip into browser and enjoy
 ``` 
 ## DATABASE ~ Default sqlite3
-```bash
-#Run the following in your terminal
-touch .env
-echo "DB_KEY=<Your Key>" > .env
-```
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
